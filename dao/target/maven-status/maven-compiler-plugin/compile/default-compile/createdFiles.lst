@@ -1,0 +1,16 @@
+com\powernode\workbench\mapper\TblContactsActivityRelationMapper.class
+com\powernode\workbench\mapper\TblContactsMapper.class
+com\powernode\workbench\mapper\TblTranHistoryMapper.class
+com\powernode\workbench\mapper\TblContactsRemarkMapper.class
+com\powernode\workbench\mapper\TblCustomerRemarkMapper.class
+com\powernode\workbench\mapper\TblActivityRemarkMapper.class
+com\powernode\workbench\mapper\TblActivityMapper.class
+com\powernode\settings\mapper\TblUserMapper.class
+com\powernode\workbench\mapper\TblClueActivityRelationMapper.class
+com\powernode\workbench\mapper\TblTranMapper.class
+com\powernode\workbench\mapper\TblClueMapper.class
+com\powernode\workbench\mapper\TblCustomerMapper.class
+com\powernode\workbench\mapper\TblDicTypeMapper.class
+com\powernode\workbench\mapper\TblTranRemarkMapper.class
+com\powernode\workbench\mapper\TblClueRemarkMapper.class
+com\powernode\workbench\mapper\TblDicValueMapper.class
